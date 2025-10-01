@@ -16,12 +16,12 @@ O jogador controla Ani em um mundo monocromático, explorando ruas, prédios aba
 * Cada decisão entre **virtude e vício** altera visualmente o ambiente, espalhando cores vibrantes ou deixando-o sombrio.
 * As memórias são apresentadas de forma aleatória, garantindo que cada jornada seja única.
 * Ao final, o mundo moldado pelo jogador se torna um reflexo de sua própria jornada de cura e significado.
-
 ---
 
 ## 2. METAS 🎯
 
 ### Metas de Experiência do Jogador
+
 * Jogadores devem se sentir vinculados a Ani, compartilhando suas emoções e transformações.
 * Transmitir sentimentos de melancolia, reflexão e esperança 🙏, evoluindo conforme o mundo ganha cores.
 * Incentivar os jogadores a contemplar sua própria jornada interior, criando uma conexão pessoal com o processo de cura.
@@ -35,7 +35,6 @@ O jogador controla Ani em um mundo monocromático, explorando ruas, prédios aba
 * **Público-alvo:** 16 a 28 anos, interessados em filosofia, narrativas reflexivas e experiências artísticas.
 * Construir uma base inicial de jogadores fiéis dentro do nicho de jogos narrativos e experimentais.
 * Criar um jogo indie de estreia que seja capaz de gerar **impacto cultural**, mesmo em pequena escala.
-
 ---
 
 ## 3. MUNDO DO JOGO 🏙️
@@ -65,6 +64,7 @@ A progressão segue um *loop* principal:
 ### Estética Visual 🎨
 | Fase | Descrição |
 | :--- | :--- |
+
 | **Início** | Tons de cinza, baixa nitidez. |
 | **Meio** | Cores sutis, aumentando conforme virtudes são escolhidas. |
 | **Fim** | Explosão de cores no mundo exterior, variando conforme decisões. |
@@ -74,6 +74,7 @@ A progressão segue um *loop* principal:
 ## 4. MECÂNICAS 🕹️
 
 ### Exploração
+
 Navegar pela casa e memórias, interagir com objetos significativos.
 
 ### Inventário / Diário de Memórias 📓
@@ -103,6 +104,7 @@ Em situações sociais (memórias com NPCs ou vultos), Ani pode sofrer **crises 
 ## 5. PERSONAGENS 👤
 
 ### Ani (Protagonista)
+
 * Ser abstrato, sem forma definida.
 * Ganha identidade gradualmente conforme escolhas e cores retornam.
 
@@ -194,6 +196,7 @@ O mundo exterior é sempre colorido, mas sua atmosfera varia:
 ## 10. ESPECIFICAÇÕES TÉCNICAS 💻
 
 ### Plataforma Inicial
+
 * **PC (Windows)** - plataforma alvo.
 * Possibilidade futura de portar para Linux ou Consoles (Switch/PlayStation/Xbox).
 
